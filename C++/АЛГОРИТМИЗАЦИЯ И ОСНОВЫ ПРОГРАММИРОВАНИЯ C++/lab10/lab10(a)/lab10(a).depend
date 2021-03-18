@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1478840261 source:c:\program files (x86)\codeblocks\projects\lab10(a)\ras.cpp
+	"ras.h"
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<string>
+
+1478840261 c:\program files (x86)\codeblocks\projects\lab10(a)\ras.h
+	<iostream>
+
+1478840261 source:c:\program files (x86)\codeblocks\projects\lab10(a)\main.cpp
+	<iostream>
+	"ras.h"
+

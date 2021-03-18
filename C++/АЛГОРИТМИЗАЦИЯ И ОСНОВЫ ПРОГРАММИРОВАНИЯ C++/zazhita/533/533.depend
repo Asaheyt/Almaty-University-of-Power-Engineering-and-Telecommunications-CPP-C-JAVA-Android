@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1477043874 source:c:\program files (x86)\codeblocks\projects\533\rin.cpp
+	<iostream>
+	<cstdlib>
+	"rin.h"
+
+1477040937 source:c:\program files (x86)\codeblocks\projects\533\main.cpp
+	<iostream>
+	"rin.h"
+	"cstdlib"
+
+1477043457 c:\program files (x86)\codeblocks\projects\533\rin.h
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1489784007 source:c:\&my files\codeblock\projects\zazh9\main.cpp
+	<iostream>
+	<windows.h>
+	"rel.h"
+	<cstdlib>
+	<ctime>
+	<locale.h>
+
+1489784323 c:\&my files\codeblock\projects\zazh9\rel.h
+	<iostream>
+
+1489784323 source:c:\&my files\codeblock\projects\zazh9\rel.cpp
+	<string>
+	"rel.h"
+	<cstdlib>
+	<time.h>
+	<locale.h>
+

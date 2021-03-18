@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1486285039 source:c:\&my files\codeblock\projects\zazh3\main.cpp
+	"zzh.h"
+	<iostream>
+	<Windows.h>
+
+1486283484 c:\&my files\codeblock\projects\zazh3\zzh.h
+	<iostream>
+
+1486284776 source:c:\&my files\codeblock\projects\zazh3\zzh.cpp
+	"zzh.h"
+	<iostream>
+	<string>
+

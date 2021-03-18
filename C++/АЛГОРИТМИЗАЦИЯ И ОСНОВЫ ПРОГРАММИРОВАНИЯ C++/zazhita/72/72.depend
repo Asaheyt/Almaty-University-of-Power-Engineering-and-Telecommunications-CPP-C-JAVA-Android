@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1478252211 source:c:\program files (x86)\codeblocks\projects\72\main.cpp
+	<iostream>
+	"hit.h"
+
+1478252512 c:\program files (x86)\codeblocks\projects\72\hit.h
+	<iostream>
+
+1478252562 source:c:\program files (x86)\codeblocks\projects\72\hit.cpp
+	<iostream>
+	"hit.h"
+	"cstring"
+	"cstdio"
+	"cstdlib"
+

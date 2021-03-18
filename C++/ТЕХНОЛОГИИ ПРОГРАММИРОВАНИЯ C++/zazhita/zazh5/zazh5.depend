@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1486975404 source:c:\&my files\codeblock\projects\zazh5\main.cpp
+	<iostream>
+	<windows.h>
+	"uk.h"
+	<string>
+	<cstdlib>
+	<time.h>
+
+1486975621 c:\&my files\codeblock\projects\zazh5\uk.h
+	<iostream>
+
+1486899432 source:c:\&my files\codeblock\projects\zazh5\uk.cpp
+	<iostream>
+	<string>
+	"uk.h"
+

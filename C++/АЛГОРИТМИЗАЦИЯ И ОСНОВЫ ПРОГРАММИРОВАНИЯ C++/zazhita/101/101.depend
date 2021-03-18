@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1478935681 source:c:\program files (x86)\codeblocks\projects\101\main.cpp
+	<iostream>
+	<cstdlib>
+	"set.h"
+	"windows.h"
+
+1478933305 c:\program files (x86)\codeblocks\projects\101\set.h
+	"string"
+	<iostream>
+
+1478935596 source:c:\program files (x86)\codeblocks\projects\101\set.cpp
+	"set.h"
+	<iostream>
+	"cstring"
+

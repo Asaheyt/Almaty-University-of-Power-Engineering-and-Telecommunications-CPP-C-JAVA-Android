@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1488646656 source:c:\&my files\codeblock\projects\lab7(a)\com.cpp
+	<iostream>
+	<complex>
+	"Com.h"
+
+1488646133 c:\&my files\codeblock\projects\lab7(a)\com.h
+	<complex>
+
+1488647895 source:c:\&my files\codeblock\projects\lab7(a)\main.cpp
+	<iostream>
+	"Com.h"
+	<windows.h>
+	<math.h>
+	<complex>
+

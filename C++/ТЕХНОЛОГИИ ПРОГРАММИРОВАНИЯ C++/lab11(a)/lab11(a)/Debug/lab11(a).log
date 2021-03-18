@@ -1,0 +1,10 @@
+﻿  din.cpp
+c:\users\нео\documents\visual studio 2015\projects\lab11(a)\lab11(a)\din.cpp(101): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\нео\documents\visual studio 2015\projects\lab11(a)\lab11(a)\din.cpp(210): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\нео\documents\visual studio 2015\projects\lab11(a)\lab11(a)\din.cpp(630): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\нео\documents\visual studio 2015\projects\lab11(a)\lab11(a)\din.cpp(648): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\нео\documents\visual studio 2015\projects\lab11(a)\lab11(a)\din.cpp(660): warning C4129: *: неизвестная escape-последовательность
+c:\users\нео\documents\visual studio 2015\projects\lab11(a)\lab11(a)\din.cpp(667): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\нео\documents\visual studio 2015\projects\lab11(a)\lab11(a)\din.cpp(373): warning C4715: Organization::pop_back: значение возвращается не при всех путях выполнения
+  lab11(a).vcxproj -> C:\Users\нео\documents\visual studio 2015\Projects\lab11(a)\Debug\lab11(a).exe
+  lab11(a).vcxproj -> C:\Users\нео\documents\visual studio 2015\Projects\lab11(a)\Debug\lab11(a).pdb (Full PDB)

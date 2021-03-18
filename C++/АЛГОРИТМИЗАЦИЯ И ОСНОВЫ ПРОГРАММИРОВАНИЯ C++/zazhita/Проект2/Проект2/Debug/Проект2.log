@@ -1,0 +1,6 @@
+﻿  my.cpp
+  Source.cpp
+c:\users\администратор\documents\visual studio 2015\projects\проект2\проект2\source.cpp(9): warning C4101: b: неиспользованная локальная переменная
+  Создание кода...
+  Проект2.vcxproj -> C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Проект2\Debug\Проект2.exe
+  Проект2.vcxproj -> C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Проект2\Debug\Проект2.pdb (Partial PDB)

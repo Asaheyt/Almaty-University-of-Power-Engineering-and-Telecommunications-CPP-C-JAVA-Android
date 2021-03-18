@@ -1,0 +1,4 @@
+﻿  zazh9.cpp
+c:\users\нео\documents\visual studio 2015\projects\zazh9\zazh9\zazh9.cpp(16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  zazh9.vcxproj -> C:\Users\нео\documents\visual studio 2015\Projects\zazh9\Debug\zazh9.exe
+  zazh9.vcxproj -> C:\Users\нео\documents\visual studio 2015\Projects\zazh9\Debug\zazh9.pdb (Full PDB)

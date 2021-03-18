@@ -1,0 +1,4 @@
+﻿  Лаб 3(а).cpp
+c:\users\администратор\documents\visual studio 2015\projects\лаб 3(а)\лаб 3(а)\лаб 3(а).cpp(21): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  Лаб 3(а).vcxproj -> C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Лаб 3(а)\Debug\Лаб 3(а).exe
+  Лаб 3(а).vcxproj -> C:\Users\Администратор\Documents\Visual Studio 2015\Projects\Лаб 3(а)\Debug\Лаб 3(а).pdb (Full PDB)

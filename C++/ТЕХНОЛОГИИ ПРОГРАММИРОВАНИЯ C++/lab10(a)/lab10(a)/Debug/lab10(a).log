@@ -1,0 +1,16 @@
+﻿  lab10(a).cpp
+c:\users\нео\documents\visual studio 2015\projects\lab10(a)\lab10(a)\lab10(a).cpp(17): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  fai.cpp
+c:\users\нео\documents\visual studio 2015\projects\lab10(a)\lab10(a)\fai.cpp(100): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\нео\documents\visual studio 2015\projects\lab10(a)\lab10(a)\fai.cpp(209): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\нео\documents\visual studio 2015\projects\lab10(a)\lab10(a)\fai.cpp(772): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\нео\documents\visual studio 2015\projects\lab10(a)\lab10(a)\fai.cpp(790): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\нео\documents\visual studio 2015\projects\lab10(a)\lab10(a)\fai.cpp(805): warning C4129: *: неизвестная escape-последовательность
+c:\users\нео\documents\visual studio 2015\projects\lab10(a)\lab10(a)\fai.cpp(812): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\нео\documents\visual studio 2015\projects\lab10(a)\lab10(a)\fai.cpp(834): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\нео\documents\visual studio 2015\projects\lab10(a)\lab10(a)\fai.cpp(852): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\нео\documents\visual studio 2015\projects\lab10(a)\lab10(a)\fai.cpp(864): warning C4129: *: неизвестная escape-последовательность
+c:\users\нео\documents\visual studio 2015\projects\lab10(a)\lab10(a)\fai.cpp(871): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+  Создание кода...
+  lab10(a).vcxproj -> C:\Users\нео\documents\visual studio 2015\Projects\lab10(a)\Debug\lab10(a).exe
+  lab10(a).vcxproj -> C:\Users\нео\documents\visual studio 2015\Projects\lab10(a)\Debug\lab10(a).pdb (Full PDB)

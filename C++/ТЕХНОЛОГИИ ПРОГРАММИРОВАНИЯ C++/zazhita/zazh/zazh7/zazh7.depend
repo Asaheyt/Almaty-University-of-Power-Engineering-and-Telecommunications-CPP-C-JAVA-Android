@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1488792096 source:c:\&my files\codeblock\projects\zazh7\log.cpp
+	<iostream>
+	<complex>
+	"log.h"
+
+1490603956 c:\&my files\codeblock\projects\zazh7\log.h
+	<complex>
+
+1490603760 source:c:\&my files\codeblock\projects\zazh7\main.cpp
+	<iostream>
+	"log.h"
+	<windows.h>
+	<math.h>
+	<complex>
+

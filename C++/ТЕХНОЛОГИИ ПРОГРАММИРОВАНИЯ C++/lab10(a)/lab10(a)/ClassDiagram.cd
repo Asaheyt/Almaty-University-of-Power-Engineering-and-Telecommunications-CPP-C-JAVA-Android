@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Exception">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAABABAAAAAAAA=</HashCode>
+      <FileName>fai.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Data">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAIAAAAAAAAAAEQAAAAAQAAhAAAAACAAQAQAA=</HashCode>
+      <FileName>fai.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Liver">
+    <Position X="11" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBAAAAAAIAAAAABAAAEAAAAAAkABBAhAAEAAUAAAA=</HashCode>
+      <FileName>fai.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Emploee">
+    <Position X="8.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQAgAAAACIEAAAAAAAAAIQAAAAIBBIJARAAAAAAAA=</HashCode>
+      <FileName>fai.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="beginW" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Organization">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAQAIAAAAAMAAAAAYAAgAAEEABABAAEAgEAoAA=</HashCode>
+      <FileName>fai.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Organization_Ukaz">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAEAAAIAIAAAMACQAAYAAgAAAEAAABEAgAAAAgAw=</HashCode>
+      <FileName>fai.h</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="p" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Organization_Mas">
+    <Position X="0.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAEAAAIAIAAAMACQAAYAAgAAAEAAABEAgAAAAgAw=</HashCode>
+      <FileName>fai.h</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="p" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Typedef Name="cmp" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fai.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

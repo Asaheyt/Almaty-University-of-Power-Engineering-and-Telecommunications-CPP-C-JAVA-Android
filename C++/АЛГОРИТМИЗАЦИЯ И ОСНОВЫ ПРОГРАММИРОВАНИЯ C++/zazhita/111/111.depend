@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1479460044 source:c:\program files (x86)\codeblocks\projects\111\fol.cpp
+	"Fol.h"
+	<iostream>
+	"cstring"
+	<fstream>
+
+1479460044 c:\program files (x86)\codeblocks\projects\111\fol.h
+	"string"
+	<iostream>
+
+1479460130 source:c:\program files (x86)\codeblocks\projects\111\main.cpp
+	<iostream>
+	<cstdlib>
+	"Fol.h"
+	"windows.h"
+	"fstream"
+

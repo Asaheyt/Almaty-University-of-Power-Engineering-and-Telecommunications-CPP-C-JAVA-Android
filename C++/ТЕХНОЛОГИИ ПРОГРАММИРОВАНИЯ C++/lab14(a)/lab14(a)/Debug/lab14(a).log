@@ -1,0 +1,4 @@
+﻿  lab14(a).cpp
+c:\users\нео\documents\visual studio 2015\projects\lab14(a)\lab14(a)\lab14(a).cpp(16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab14(a).vcxproj -> C:\Users\нео\documents\visual studio 2015\Projects\lab14(a)\Debug\lab14(a).exe
+  lab14(a).vcxproj -> C:\Users\нео\documents\visual studio 2015\Projects\lab14(a)\Debug\lab14(a).pdb (Full PDB)

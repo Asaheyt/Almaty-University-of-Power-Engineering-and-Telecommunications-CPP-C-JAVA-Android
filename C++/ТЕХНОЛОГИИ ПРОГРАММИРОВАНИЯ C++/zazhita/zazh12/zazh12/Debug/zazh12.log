@@ -1,0 +1,10 @@
+﻿  dlist.cpp
+c:\users\нео\documents\visual studio 2015\projects\zazh12\zazh12\dlist.cpp(61): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\нео\documents\visual studio 2015\projects\zazh12\zazh12\dlist.cpp(83): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\нео\documents\visual studio 2015\projects\zazh12\zazh12\dlist.cpp(333): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\нео\documents\visual studio 2015\projects\zazh12\zazh12\dlist.cpp(351): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\нео\documents\visual studio 2015\projects\zazh12\zazh12\dlist.cpp(370): warning C4129: *: неизвестная escape-последовательность
+c:\users\нео\documents\visual studio 2015\projects\zazh12\zazh12\dlist.cpp(220): warning C4715: List::pop_back: значение возвращается не при всех путях выполнения
+c:\users\нео\documents\visual studio 2015\projects\zazh12\zazh12\dlist.cpp(249): warning C4715: List::pop_front: значение возвращается не при всех путях выполнения
+  zazh12.vcxproj -> c:\Users\нео\Documents\Visual Studio 2015\Projects\zazh12\Debug\zazh12.exe
+  zazh12.vcxproj -> c:\Users\нео\Documents\Visual Studio 2015\Projects\zazh12\Debug\zazh12.pdb (Full PDB)

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1484490577 source:c:\program files (x86)\codeblocks\projects\lab2(a)\clinc.cpp
+	"clinc.h"
+	<iostream>
+	<cstring>
+
+1484488837 c:\program files (x86)\codeblocks\projects\lab2(a)\clinc.h
+	<iostream>
+
+1484994681 source:c:\program files (x86)\codeblocks\projects\lab2(a)\main.cpp
+	<iostream>
+	"clinc.h"
+	<cstring>
+

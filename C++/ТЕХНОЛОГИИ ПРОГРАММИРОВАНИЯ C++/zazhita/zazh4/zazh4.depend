@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1486370412 source:c:\&my files\codeblock\projects\zazh4\main.cpp
+	<iostream>
+	<windows.h>
+	"mas1.h"
+	<string>
+	<cstdlib>
+	<ctime>
+
+1486308666 c:\&my files\codeblock\projects\zazh4\mas1.h
+	<iostream>
+
+1486370942 source:c:\&my files\codeblock\projects\zazh4\mas1.cpp
+	<iostream>
+	<string>
+	"mas1.h"
+	<windows.h>
+

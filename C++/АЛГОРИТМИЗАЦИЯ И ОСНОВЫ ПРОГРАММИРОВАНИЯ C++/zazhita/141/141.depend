@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1480440219 source:c:\program files (x86)\codeblocks\projects\141\gib.cpp
+	<iostream>
+	"gib.h"
+	<windows.h>
+	"cstdlib"
+	"cstdio"
+	"fstream"
+
+1480438348 c:\program files (x86)\codeblocks\projects\141\gib.h
+	<iostream>
+
+1480437582 source:c:\program files (x86)\codeblocks\projects\141\main.cpp
+	<iostream>
+	"gib.cpp"
+	<windows.h>
+
+1480438378 c:\program files (x86)\codeblocks\projects\141\gib.cpp
+	<iostream>
+	"gib.h"
+	<windows.h>
+	"cstdlib"
+	"fstream"
+

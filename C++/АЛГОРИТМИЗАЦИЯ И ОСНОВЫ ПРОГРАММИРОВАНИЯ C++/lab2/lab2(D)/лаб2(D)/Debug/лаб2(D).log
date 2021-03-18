@@ -1,0 +1,12 @@
+﻿  лаб2(D).cpp
+c:\users\администратор\documents\visual studio 2015\projects\лаб2(d)\лаб2(d)\лаб2(d).cpp(21): warning C4305: инициализация: усечение из "double" к "float"
+c:\users\администратор\documents\visual studio 2015\projects\лаб2(d)\лаб2(d)\лаб2(d).cpp(29): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\администратор\documents\visual studio 2015\projects\лаб2(d)\лаб2(d)\лаб2(d).cpp(30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\администратор\documents\visual studio 2015\projects\лаб2(d)\лаб2(d)\лаб2(d).cpp(31): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\администратор\documents\visual studio 2015\projects\лаб2(d)\лаб2(d)\лаб2(d).cpp(32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\администратор\documents\visual studio 2015\projects\лаб2(d)\лаб2(d)\лаб2(d).cpp(33): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\администратор\documents\visual studio 2015\projects\лаб2(d)\лаб2(d)\лаб2(d).cpp(34): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\администратор\documents\visual studio 2015\projects\лаб2(d)\лаб2(d)\лаб2(d).cpp(35): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\администратор\documents\visual studio 2015\projects\лаб2(d)\лаб2(d)\лаб2(d).cpp(36): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  лаб2(D).vcxproj -> C:\Users\Администратор\Documents\Visual Studio 2015\Projects\лаб2(D)\Debug\лаб2(D).exe
+  лаб2(D).vcxproj -> C:\Users\Администратор\Documents\Visual Studio 2015\Projects\лаб2(D)\Debug\лаб2(D).pdb (Full PDB)

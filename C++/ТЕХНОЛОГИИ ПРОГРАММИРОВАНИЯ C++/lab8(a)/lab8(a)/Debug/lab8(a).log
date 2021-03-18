@@ -1,0 +1,7 @@
+﻿  lab8(a).cpp
+c:\users\нео\documents\visual studio 2015\projects\lab8(a)\lab8(a)\lab8(a).cpp(23): warning C4305: аргумент: усечение из "__int64" к "int"
+c:\users\нео\documents\visual studio 2015\projects\lab8(a)\lab8(a)\lab8(a).cpp(23): warning C4309: аргумент: усечение константного значения
+c:\users\нео\documents\visual studio 2015\projects\lab8(a)\lab8(a)\lab8(a).cpp(41): warning C4305: аргумент: усечение из "__int64" к "int"
+c:\users\нео\documents\visual studio 2015\projects\lab8(a)\lab8(a)\lab8(a).cpp(41): warning C4309: аргумент: усечение константного значения
+  lab8(a).vcxproj -> C:\Users\нео\documents\visual studio 2015\Projects\lab8(a)\Debug\lab8(a).exe
+  lab8(a).vcxproj -> C:\Users\нео\documents\visual studio 2015\Projects\lab8(a)\Debug\lab8(a).pdb (Full PDB)

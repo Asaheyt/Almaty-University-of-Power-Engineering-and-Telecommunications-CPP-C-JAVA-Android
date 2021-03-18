@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Exception">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAABABAAAAAAAA=</HashCode>
+      <FileName>stl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Liver">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBAAAAAAIAAAAABAAAEAAAAAAkABBAhAAEAAUAAAA=</HashCode>
+      <FileName>stl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Emploee">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAACIEAAAAAAAAAIAAAAAIBBIJARAAAAAAAA=</HashCode>
+      <FileName>stl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Organization">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAQAAAAAAAMAAAAAYAAgAAEEABABAAEAgEAIAA=</HashCode>
+      <FileName>stl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Organization_Ukaz" Collapsed="true">
+    <Position X="9" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAIAAAAAMAAAAAYAAgAAAEAAABUAAAAAAAAA=</HashCode>
+      <FileName>stl.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="p" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Organization_Mas" Collapsed="true">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAIAAAAAMAAAAAYAAgAAAEAAgBEAAAAAAAAA=</HashCode>
+      <FileName>stl.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="p" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Organization_DinMas" Collapsed="true">
+    <Position X="9" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAIAAAAAMAAABAYAAgAAAEACABEAAAAAAAAA=</HashCode>
+      <FileName>stl.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="p" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Node">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAIABSAAIAAAA=</HashCode>
+      <FileName>stl.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="data" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Organization_DinList" Collapsed="true">
+    <Position X="9" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgACACAAAAgAIMAAAAAYAQgAAAEAAEBAAAAAAAAAA=</HashCode>
+      <FileName>stl.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="begin" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Organization_Vect" Collapsed="true">
+    <Position X="9" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAIAAAAAMAAAAAYAAgAAAEAACBAQAAAAAAAA=</HashCode>
+      <FileName>stl.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="t" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="std::vector&lt;_Ty, _Alloc&gt;" Collapsed="true">
+    <Position X="13.25" Y="2.5" Width="1.5" />
+    <NestedTypes>
+      <Typedef Name="std::vector&lt;_Ty, _Alloc&gt;::reference" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>c:\&amp;My files\VisualStudioCommunity\VC\include\vector</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="std::vector&lt;_Ty, _Alloc&gt;::const_iterator" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>c:\&amp;My files\VisualStudioCommunity\VC\include\vector</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="std::vector&lt;_Ty, _Alloc&gt;::difference_type" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>c:\&amp;My files\VisualStudioCommunity\VC\include\vector</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="std::vector&lt;_Ty, _Alloc&gt;::_Mybase" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>c:\&amp;My files\VisualStudioCommunity\VC\include\vector</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="std::vector&lt;_Ty, _Alloc&gt;::_Myt" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>c:\&amp;My files\VisualStudioCommunity\VC\include\vector</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="std::vector&lt;_Ty, _Alloc&gt;::allocator_type" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>c:\&amp;My files\VisualStudioCommunity\VC\include\vector</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="std::vector&lt;_Ty, _Alloc&gt;::pointer" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>c:\&amp;My files\VisualStudioCommunity\VC\include\vector</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="std::vector&lt;_Ty, _Alloc&gt;::const_pointer" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>c:\&amp;My files\VisualStudioCommunity\VC\include\vector</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="std::vector&lt;_Ty, _Alloc&gt;::size_type" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>c:\&amp;My files\VisualStudioCommunity\VC\include\vector</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="std::vector&lt;_Ty, _Alloc&gt;::const_reference" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>c:\&amp;My files\VisualStudioCommunity\VC\include\vector</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="std::vector&lt;_Ty, _Alloc&gt;::reverse_iterator" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>c:\&amp;My files\VisualStudioCommunity\VC\include\vector</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="std::vector&lt;_Ty, _Alloc&gt;::_Alty" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>c:\&amp;My files\VisualStudioCommunity\VC\include\vector</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="std::vector&lt;_Ty, _Alloc&gt;::iterator" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>c:\&amp;My files\VisualStudioCommunity\VC\include\vector</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="std::vector&lt;_Ty, _Alloc&gt;::value_type" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>c:\&amp;My files\VisualStudioCommunity\VC\include\vector</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="std::vector&lt;_Ty, _Alloc&gt;::const_reverse_iterator" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>c:\&amp;My files\VisualStudioCommunity\VC\include\vector</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IUoEEIEqCLBMUEBAAKMIAgISAgUESAIAxQMwgwAEQgI=</HashCode>
+      <FileName>c:\&amp;My files\VisualStudioCommunity\VC\include\vector</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

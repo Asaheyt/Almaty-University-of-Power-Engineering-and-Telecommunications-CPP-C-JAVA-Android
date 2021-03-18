@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1479463412 source:c:\program files (x86)\codeblocks\projects\lab11(a)\kmkz.cpp
+	"kmkz.h"
+	<iostream>
+	"cstring"
+	"windows.h"
+	<fstream>
+
+1479464062 source:c:\program files (x86)\codeblocks\projects\lab11(a)\main.cpp
+	<iostream>
+	<cstdlib>
+	"kmkz.h"
+	"windows.h"
+	"fstream"
+
+1479328741 c:\program files (x86)\codeblocks\projects\lab11(a)\kmkz.h
+	"string"
+	<iostream>
+
+1479463414 source:d:\&¿”›—\aop\lab\resh\lab11\lab11(a)\kmkz.cpp
+	"kmkz.h"
+	<iostream>
+	"cstring"
+	"windows.h"
+	<fstream>
+
+1479328742 d:\&¿”›—\aop\lab\resh\lab11\lab11(a)\kmkz.h
+	"string"
+	<iostream>
+
+1479464064 source:d:\&¿”›—\aop\lab\resh\lab11\lab11(a)\main.cpp
+	<iostream>
+	<cstdlib>
+	"kmkz.h"
+	"windows.h"
+	"fstream"
+

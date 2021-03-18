@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1479491163 source:c:\program files (x86)\codeblocks\projects\lab12(a)\main.cpp
+	<iostream>
+	"sup.h"
+	"windows.h"
+
+1479490376 c:\program files (x86)\codeblocks\projects\lab12(a)\sup.h
+	"string"
+	<iostream>
+
+1479491163 source:c:\program files (x86)\codeblocks\projects\lab12(a)\sup.cpp
+	"sup.h"
+	<iostream>
+	"cstring"
+	<fstream>
+

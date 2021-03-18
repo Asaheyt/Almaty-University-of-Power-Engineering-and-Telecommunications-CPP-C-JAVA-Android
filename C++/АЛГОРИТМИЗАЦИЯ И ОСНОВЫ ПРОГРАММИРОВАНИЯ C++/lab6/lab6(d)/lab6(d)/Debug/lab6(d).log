@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\администратор\documents\visual studio 2013\projects\lab6(d)\lab6(d)\main.cpp(13): error C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 12.0\vc\include\stdio.h(254): см. объявление "gets"
+c:\users\администратор\documents\visual studio 2013\projects\lab6(d)\lab6(d)\main.cpp(40): warning C4018: <: несоответствие типов со знаком и без знака

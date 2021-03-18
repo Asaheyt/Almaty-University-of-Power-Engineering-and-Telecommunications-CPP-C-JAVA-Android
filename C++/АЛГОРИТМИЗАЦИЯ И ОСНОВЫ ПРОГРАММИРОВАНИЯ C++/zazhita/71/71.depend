@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1477967591 source:c:\program files (x86)\codeblocks\projects\71\main.cpp
+	<iostream>
+	"win.h"
+
+1477934085 c:\program files (x86)\codeblocks\projects\71\win.h
+	<iostream>
+
+1477967475 source:c:\program files (x86)\codeblocks\projects\71\win.cpp
+	<iostream>
+	"win.h"
+	"cstring"
+	"cstdio"
+	"cstdlib"
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1477667661 source:c:\program files (x86)\codeblocks\projects\62\full.cpp
+	"full.h"
+	<iostream>
+	"cstring"
+	"cstdlib"
+
+1477667481 c:\program files (x86)\codeblocks\projects\62\full.h
+	<iostream>
+
+1477667661 source:c:\program files (x86)\codeblocks\projects\62\main.cpp
+	<iostream>
+	"cstring"
+	"cstdio"
+	"full.h"
+

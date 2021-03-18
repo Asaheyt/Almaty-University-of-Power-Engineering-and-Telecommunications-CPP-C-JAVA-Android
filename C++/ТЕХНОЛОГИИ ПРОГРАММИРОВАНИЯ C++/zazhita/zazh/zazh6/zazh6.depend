@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1488183232 source:c:\&my files\codeblock\projects\zazh6\main.cpp
+	<iostream>
+	"vir.h"
+	<time.h>
+	<cstdlib>
+	<cstring>
+	<stdio.h>
+
+1488129397 c:\&my files\codeblock\projects\zazh6\vir.h
+	<iostream>
+
+1488129366 source:c:\&my files\codeblock\projects\zazh6\vir.cpp
+	"vir.h"
+	<iostream>
+	<cstdlib>
+	<cstring>
+

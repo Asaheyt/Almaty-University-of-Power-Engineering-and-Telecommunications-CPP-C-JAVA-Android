@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\администратор\documents\visual studio 2013\projects\3azh\3azh\main.cpp(10): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\администратор\documents\visual studio 2013\projects\3azh\3azh\main.cpp(11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  3azh.vcxproj -> C:\Users\Администратор\Documents\Visual Studio 2013\Projects\3azh\Debug\3azh.exe

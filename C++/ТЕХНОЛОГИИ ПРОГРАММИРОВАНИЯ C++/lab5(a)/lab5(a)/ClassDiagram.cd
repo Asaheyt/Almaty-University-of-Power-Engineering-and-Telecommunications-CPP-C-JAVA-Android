@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Liver">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBAAAAAAIAAAAABAAAEAAAAAAkABBAhAAEAAUAAAA=</HashCode>
+      <FileName>ukaz.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Emploee">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAACIEAAAAAAAAAIAAAAAIBBIJARAAAAAAAA=</HashCode>
+      <FileName>ukaz.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Organization">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAEAAAAAAAAgAAEAABABEAEAhAAIAA=</HashCode>
+      <FileName>ukaz.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

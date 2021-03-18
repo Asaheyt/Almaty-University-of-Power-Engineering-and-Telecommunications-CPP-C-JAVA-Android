@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Liver">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBAAAAAAIAAAAAAAAAEAAAAAAkABBAhAAEAAUAAAA=</HashCode>
+      <FileName>manyf.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Emploee">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <InheritanceLine Type="Liver" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="2.25" Y="2.438" />
+        <Point X="4" Y="2.438" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAACIEAAAAAAAAAIAAAAAIBBIJARAAAAAAAA=</HashCode>
+      <FileName>manyf.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Organization">
+    <Position X="10.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAEAAAAAAAAgAAEAABABAAEAhAAIAA=</HashCode>
+      <FileName>manyf.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Oraganization_A">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <AssociationLine Name="p" Type="Emploee" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="8.25" Y="2.405" />
+        <Point X="7.875" Y="2.405" />
+        <Point X="7.875" Y="2.438" />
+        <Point X="5.5" Y="2.438" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAgAAAAAAABEAAABAAAAA=</HashCode>
+      <FileName>manyf.h</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="p" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Oraganization_B">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAgAAAAAAABEAAABAAAAA=</HashCode>
+      <FileName>manyf.h</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="p" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

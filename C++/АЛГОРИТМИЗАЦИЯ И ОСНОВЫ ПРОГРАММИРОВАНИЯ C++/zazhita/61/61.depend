@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1477417846 source:c:\program files (x86)\codeblocks\projects\61\main.cpp
+	<iostream>
+	"cstring"
+	"cstdio"
+	"won.h"
+
+1477417699 c:\program files (x86)\codeblocks\projects\61\won.h
+
+1477506351 source:c:\program files (x86)\codeblocks\projects\61\won.cpp
+	<iostream>
+	"cstring"
+	"cstdio"
+	"won.h"
+	"algorithm"
+

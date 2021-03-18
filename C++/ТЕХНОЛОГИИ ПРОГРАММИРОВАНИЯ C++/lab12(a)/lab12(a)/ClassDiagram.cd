@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Exception" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAABABAAAAAAAA=</HashCode>
+      <FileName>dsp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Liver">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBAAAAAAIAAAAABAAAEAAAAAAkABBAhAAEAAUAAAA=</HashCode>
+      <FileName>dsp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Emploee">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAACIEAAAAAAAAAIAAAAAIBBIJARAAAAAAAA=</HashCode>
+      <FileName>dsp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Node">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAIABSAAIAAAA=</HashCode>
+      <FileName>dsp.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="data" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Organization">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAACASAAAIgBAIAAEIAZAQAAAAEAAABQEAAgEQIAA=</HashCode>
+      <FileName>dsp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="binary_func" Collapsed="true">
+    <Position X="9" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAEABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>dsp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

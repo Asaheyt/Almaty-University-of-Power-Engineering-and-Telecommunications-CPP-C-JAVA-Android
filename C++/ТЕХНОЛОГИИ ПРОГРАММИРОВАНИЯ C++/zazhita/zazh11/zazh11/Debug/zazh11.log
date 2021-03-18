@@ -1,0 +1,12 @@
+﻿  dmas.cpp
+c:\users\нео\documents\visual studio 2015\projects\zazh11\zazh11\dmas.cpp(101): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\нео\documents\visual studio 2015\projects\zazh11\zazh11\dmas.cpp(216): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\нео\documents\visual studio 2015\projects\zazh11\zazh11\dmas.cpp(640): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\нео\documents\visual studio 2015\projects\zazh11\zazh11\dmas.cpp(658): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\нео\documents\visual studio 2015\projects\zazh11\zazh11\dmas.cpp(670): warning C4129: *: неизвестная escape-последовательность
+c:\users\нео\documents\visual studio 2015\projects\zazh11\zazh11\dmas.cpp(677): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\нео\documents\visual studio 2015\projects\zazh11\zazh11\dmas.cpp(759): warning C4101: k: неиспользованная локальная переменная
+c:\users\нео\documents\visual studio 2015\projects\zazh11\zazh11\dmas.cpp(784): warning C4018: >: несоответствие типов со знаком и без знака
+c:\users\нео\documents\visual studio 2015\projects\zazh11\zazh11\dmas.cpp(383): warning C4715: Organization::pop_back: значение возвращается не при всех путях выполнения
+  zazh11.vcxproj -> C:\Users\нео\documents\visual studio 2015\Projects\zazh11\Debug\zazh11.exe
+  zazh11.vcxproj -> C:\Users\нео\documents\visual studio 2015\Projects\zazh11\Debug\zazh11.pdb (Full PDB)

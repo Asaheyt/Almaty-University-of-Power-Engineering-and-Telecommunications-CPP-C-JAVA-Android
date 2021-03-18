@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\нео\documents\visual studio 2015\projects\lab4(a)\lab4(a)\main.cpp(28): warning C4305: аргумент: усечение из "__int64" к "int"
+c:\users\нео\documents\visual studio 2015\projects\lab4(a)\lab4(a)\main.cpp(28): warning C4309: аргумент: усечение константного значения
+  lab4(a).vcxproj -> C:\Users\нео\documents\visual studio 2015\Projects\lab4(a)\Debug\lab4(a).exe
+  lab4(a).vcxproj -> C:\Users\нео\documents\visual studio 2015\Projects\lab4(a)\Debug\lab4(a).pdb (Partial PDB)

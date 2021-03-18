@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1484476641 source:c:\program files (x86)\codeblocks\projects\lab1(a)\cicle.cpp
+	"cicle.h"
+	<math.h>
+
+1484553255 source:c:\program files (x86)\codeblocks\projects\lab1(a)\main.cpp
+	<iostream>
+	<math.h>
+	"cicle.h"
+
+1484479434 c:\program files (x86)\codeblocks\projects\lab1(a)\cicle.h
+

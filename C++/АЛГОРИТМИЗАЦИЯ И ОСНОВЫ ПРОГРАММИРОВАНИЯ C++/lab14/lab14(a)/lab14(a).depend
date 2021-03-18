@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1480427216 source:c:\program files (x86)\codeblocks\projects\lab14(a)\main.cpp
+	<iostream>
+	<windows.h>
+	"gas.h"
+
+1480427295 source:c:\program files (x86)\codeblocks\projects\lab14(a)\gas.cpp
+	<iostream>
+	"gas.h"
+	<windows.h>
+
+1480428392 c:\program files (x86)\codeblocks\projects\lab14(a)\gas.h
+	<iostream>
+

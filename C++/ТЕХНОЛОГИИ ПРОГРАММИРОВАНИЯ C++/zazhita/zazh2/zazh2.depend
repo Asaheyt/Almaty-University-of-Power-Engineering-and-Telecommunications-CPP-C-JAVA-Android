@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1485009213 source:c:\program files (x86)\codeblocks\projects\zazh2\incam.cpp
+	"incam.h"
+	<iostream>
+	<cstring>
+
+1485009213 c:\program files (x86)\codeblocks\projects\zazh2\incam.h
+	<string>
+
+1485002805 source:c:\program files (x86)\codeblocks\projects\zazh2\main.cpp
+	<iostream>
+	"incam.h"
+	<windows.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1479824142 source:c:\program files (x86)\codeblocks\projects\lab13(a)\main.cpp
+	<iostream>
+	"zon.h"
+	"windows.h"
+	"cstdlib"
+
+1479824142 c:\program files (x86)\codeblocks\projects\lab13(a)\zon.h
+	"string"
+	<iostream>
+

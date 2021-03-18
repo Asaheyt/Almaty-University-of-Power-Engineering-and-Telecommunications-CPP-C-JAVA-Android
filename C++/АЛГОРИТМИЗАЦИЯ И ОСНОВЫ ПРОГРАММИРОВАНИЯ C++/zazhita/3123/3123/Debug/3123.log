@@ -1,0 +1,4 @@
+﻿  tip.cpp
+c:\users\администратор\documents\visual studio 2015\projects\3123\3123\tip.cpp(12): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  3123.vcxproj -> C:\Users\Администратор\documents\visual studio 2015\Projects\3123\Debug\3123.exe
+  3123.vcxproj -> C:\Users\Администратор\documents\visual studio 2015\Projects\3123\Debug\3123.pdb (Full PDB)

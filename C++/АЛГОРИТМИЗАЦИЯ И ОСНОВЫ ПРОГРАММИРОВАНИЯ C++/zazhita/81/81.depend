@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1478331917 source:c:\program files (x86)\codeblocks\projects\81\hat.cpp
+	"hat.h"
+	<iostream>
+
+1478332074 source:c:\program files (x86)\codeblocks\projects\81\main.cpp
+	<iostream>
+	<cstdlib>
+	"hat.h"
+
+1478331917 c:\program files (x86)\codeblocks\projects\81\hat.h
+	"string"
+	<iostream>
+

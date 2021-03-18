@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1480066095 source:c:\program files (x86)\codeblocks\projects\131\main.cpp
+	<iostream>
+	"uhu.h"
+	"windows.h"
+	"fstream"
+
+1480047448 c:\program files (x86)\codeblocks\projects\131\uhu.h
+	<iostream>
+
+1480048615 source:c:\program files (x86)\codeblocks\projects\131\uhu.cpp
+	"uhu.h"
+	<iostream>
+	"cstring"
+	"stdio.h"
+	"fstream"
+

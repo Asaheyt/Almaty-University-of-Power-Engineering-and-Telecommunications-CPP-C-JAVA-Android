@@ -1,0 +1,8 @@
+﻿  lab 3(b).cpp
+c:\users\администратор\documents\visual studio 2015\projects\lab 3(b)\lab 3(b)\lab 3(b).cpp(28): warning C4244: *=: преобразование "double" в "float", возможна потеря данных
+c:\users\администратор\documents\visual studio 2015\projects\lab 3(b)\lab 3(b)\lab 3(b).cpp(32): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\администратор\documents\visual studio 2015\projects\lab 3(b)\lab 3(b)\lab 3(b).cpp(11): warning C4101: z: неиспользованная локальная переменная
+c:\users\администратор\documents\visual studio 2015\projects\lab 3(b)\lab 3(b)\lab 3(b).cpp(11): warning C4101: y: неиспользованная локальная переменная
+c:\users\администратор\documents\visual studio 2015\projects\lab 3(b)\lab 3(b)\lab 3(b).cpp(11): warning C4101: c: неиспользованная локальная переменная
+  lab 3(b).vcxproj -> C:\Users\Администратор\Documents\Visual Studio 2015\Projects\lab 3(b)\Debug\lab 3(b).exe
+  lab 3(b).vcxproj -> C:\Users\Администратор\Documents\Visual Studio 2015\Projects\lab 3(b)\Debug\lab 3(b).pdb (Full PDB)
